@@ -50,7 +50,7 @@ me.say_ciao()
 
 📫 Feel free to reach me at tieukhoimai@gmail.com
 
-☁️ Or you can connect to me via my [/in/tieukhoimai/](https://www.linkedin.com/in/tieukhoimai/)
+☁️ Or you can connect to me via [/in/tieukhoimai/](https://www.linkedin.com/in/tieukhoimai/)
 
 🏠 My resume is available at [tieukhoimai dot me](https://tieukhoimai.me/resume.pdf)
 
