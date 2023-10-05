@@ -28,12 +28,12 @@ class DataAnalyst:
         self.company = ["Fossil Group", "Amanotes", "Bosch"]
         self.uni = ["UNIVR", "HCMUS", "HCMOU"]
 
-    def who_am_i(self):
-        print("A data gal, a master student and another (an amateur writer, maybe).")
+    def say_ciao(self):
+        print("Ciao, I'm a data gal and a master student in Italy")
 
 
 me = DataAnalyst()
-me.who_am_i()
+me.say_ciao()
 ```
 
 <br>
