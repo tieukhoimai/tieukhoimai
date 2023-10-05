@@ -25,7 +25,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Tieu Khoi Mai"
         self.role = "Data Analyst"
-        self.company = ["Fossil Group", "ZaloAI", "Amanotes", "Bosch"]
+        self.company = ["Fossil Group", "Amanotes", "Bosch"]
         self.uni = ["UNIVR", "HCMUS", "HCMOU"]
 
     def who_am_i(self):
@@ -44,15 +44,15 @@ me.who_am_i()
 
 🔭 I’m holding a dual role at Fossil Group as both an Analytics Project Manager and Data Analyst.
 
-💬 Talks about data stories, insights and product experience
+💬 Talks about data stories, insights, and product experience
 
 📝 I regularly write articles on [tieukhoimai dot me](https://tieukhoimai.me/blog)
 
-📫 Feel free to reach me out tieukhoimai@gmail.com
+📫 Feel free to reach me at tieukhoimai@gmail.com
 
 ☁️ Or you can connect to me via my [/in/tieukhoimai/](https://www.linkedin.com/in/tieukhoimai/)
 
-🏠 My resume available at [tieukhoimai dot me](https://tieukhoimai.me/resume.pdf)
+🏠 My resume is available at [tieukhoimai dot me](https://tieukhoimai.me/resume.pdf)
 
 <br>
 
