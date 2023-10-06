@@ -29,7 +29,7 @@ class DataAnalyst:
         self.uni = ["UNIVR", "HCMUS", "HCMOU"]
 
     def say_ciao(self):
-        print("Ciao, I'm a data gal and a master student in Italy")
+        print("Ciao, I'm a data gal and a master student")
 
 
 me = DataAnalyst()
