@@ -40,9 +40,9 @@ me.say_ciao()
 
 🌱 I am currently pursuing a Master's degree in Data Science at the University of Verona
 
-👩‍💻 I previously earned dual Bachelor's degrees in Computer Science and International Business.
+👩‍💻 I previously earned dual Bachelor's degrees in Computer Science and International Business
 
-🔭 I’m holding a dual role at Fossil Group as both an Analytics Project Manager and Data Analyst.
+🔭 I held a dual role at Fossil Group as both an Analytics Project Manager and Data Analyst
 
 💬 Talks about data stories, insights, and product experience
 
