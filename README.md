@@ -26,7 +26,7 @@ class DataAnalyst:
         self.name = "Tieu Khoi Mai"
         self.role = "Data Analyst"
         self.company = ["Fossil Group", "Amanotes", "Bosch"]
-        self.uni = ["UNIVR", "HCMUS", "HCMOU"]
+        self.uni = ["UiO", "Univr", "HCMUS", "HCMOU"]
 
     def say_ciao(self):
         print("Ciao, I'm a data gal and a master student")
