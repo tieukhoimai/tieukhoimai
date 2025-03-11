@@ -52,7 +52,7 @@ me.say_ciao()
 
 ☁️ Or you can connect to me via [/in/tieukhoimai/](https://www.linkedin.com/in/tieukhoimai/)
 
-🏠 My resume is available at [tieukhoimai dot me](https://tieukhoimai.me/resume.pdf)
+🏠 My resume is available at [tieukhoimai dot me](https://tieukhoimai.me/resume)
 
 <br>
 
